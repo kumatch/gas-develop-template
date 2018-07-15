@@ -41,3 +41,7 @@ Write GAS codes into `src` directory and deploy it.
 $ npm run build
 $ npm run push
 ```
+
+## License
+
+MIT
