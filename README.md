@@ -33,8 +33,8 @@ Create a new GAS project on Google drive, then check the GAS project ID. (Open `
 And clone the GAS project to local machine using clasp.
 
 ```
-$ cd dist
-$ npm clasp clone your-GAS-poject-id
+$ mkdir dist && cd dist
+$ npx clasp clone your-GAS-poject-id
 ```
 
 ## Development
