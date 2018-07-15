@@ -10,7 +10,11 @@ A repository template for Google Apps Script (GAS) development.
 
 ## Setup
 
+Copy this repository for your new GAS project.
+
 ```
+$ git clone git@github.com:kumatch/gas-develop-template.git your-gas-project-name
+$ cd your-gas-project-name
 $ npm install
 ```
 
