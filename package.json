@@ -2,9 +2,11 @@
   "name": "gas-develop-template",
   "dependencies": {},
   "scripts": {
-    "build": "webpack --mode=production"
+    "build": "webpack --mode=production",
+    "push": "cd dist && clasp push"
   },
   "devDependencies": {
+    "@google/clasp": "^1.4.1",
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
     "babel-plugin-transform-class-properties": "^6.24.1",
