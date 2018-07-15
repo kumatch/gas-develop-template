@@ -16,7 +16,7 @@ $ npm install
 
 ### For first setting
 
-Visit https://script.google.com/home/usersettings and enable Google Apps Script API, and login by @google/clasp. (Once for your google account.)
+Visit https://script.google.com/home/usersettings and enable Google Apps Script API, then login by @google/clasp. (Once for your google account.)
 
 ```
 $ npx clasp login
@@ -30,7 +30,7 @@ And clone the GAS project to local machine using clasp.
 
 ```
 $ cd dist
-$ npm clasp clone `your-GAS-poject-id`
+$ npm clasp clone your-GAS-poject-id
 ```
 
 ## Development
